@@ -1,0 +1,25 @@
+body{
+    background-color: #3C4048;
+    font-family: "Copperplate",fantasy;
+    color: #EAEAEA ;
+    margin: 0;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 5px black;
+    font-size: 1.7em;
+}
+header{
+    background-color: #EAEAEA;
+    height: 1.85em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    
+}
+.top-container{
+    padding-top: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center; }
